@@ -2,7 +2,6 @@ import plot
 import datetime
 import time
 
-#HALLO TEST
 
 def update_website(date):
     # Temperatur in HTML Code der Website einfügen
